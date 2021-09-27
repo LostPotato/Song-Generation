@@ -7,7 +7,7 @@ the overall quality of the model is pretty limited, however, If you replaced tha
 one, and retrained it, the model will be able to generate some awesome lines.
 
 The model was trained twice and I have both of those weights inside the repo if you want to try them out.
-You will just need to change the file locations in any of the line that reference a path.
+You will just need to change the file locations in any of the lines that reference a path.
 
 Thank you for looking at my project!
 -Ian 
